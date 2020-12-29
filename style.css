@@ -1,0 +1,41 @@
+html,
+body,
+#intro{
+    height: 100%;
+}
+
+#intro{
+    background-image: url('https://cdn.wallpapersafari.com/74/28/tGTbCQ.jpg');
+    background-size :cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-backgroung-size :cover; 
+    color: white;   
+    
+}
+.white-text my-4{
+    color: white;
+}
+footer{
+    border: 2px solid black;
+    background:gray;
+    color: white;
+}
+.container-bg{
+    border: 2px solid black;
+}
+.feature{
+    border: 2px solid green;
+    background: lightgoldenrodyellow;
+}
+.page{
+    background: lightgoldenrodyellow;
+    height: 40em;
+}
+.logo{
+    height: 75px;
+    padding: 1px;}
